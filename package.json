@@ -1,0 +1,24 @@
+{
+  "name": "hasilkan-uang",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krandiz/hasilkan-uang.git"
+  },
+  "author": "krandiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krandiz/hasilkan-uang/issues"
+  },
+  "homepage": "https://github.com/krandiz/hasilkan-uang#readme",
+  "dependencies": {
+    "krandizkeren": "^1.0.0",
+    "tea-bodoh": "^1.0.0",
+    "tea-majapahit": "^1.0.0"
+  }
+}
